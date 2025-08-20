@@ -64,7 +64,7 @@ src/
 
 ```bash
 git clone <repo-url>
-cd needle-groove-records-app
+cd react2-submission
 ```
 
 ### Install dependencies
