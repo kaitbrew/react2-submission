@@ -1,0 +1,75 @@
+{
+  "store_info": [
+    {
+      "id": "1",
+      "name": "Needle & Groove Records",
+      "description": "An independent record store specializing in alternative, rock, and rare vinyl finds.",
+      "phone_number": "555-9876"
+    }
+  ],
+  "albums": [
+    {
+      "id": "1",
+      "name": "The Downward Spiral",
+      "artist": "Nine Inch Nails",
+      "description": "A dark, industrial concept album that explores themes of self-destruction, despair, and transformation.",
+      "price": 29.99
+    },
+    {
+      "id": "2",
+      "name": "White Pony",
+      "artist": "Deftones",
+      "description": "A genre-bending album blending heavy alt-metal with atmospheric and experimental sounds.",
+      "price": 27.99
+    },
+    {
+      "id": "3",
+      "name": "Temple of the Dog",
+      "artist": "Temple of the Dog",
+      "description": "A grunge supergroup’s heartfelt tribute to Andrew Wood, filled with raw emotion and soaring vocals.",
+      "price": 25.99
+    },
+    {
+      "id": "4",
+      "name": "OK Computer",
+      "artist": "Radiohead",
+      "description": "A landmark alternative rock album exploring themes of technology, alienation, and modern life.",
+      "price": 28.99
+    },
+    {
+      "id": "5",
+      "name": "Dirt",
+      "artist": "Alice in Chains",
+      "description": "A gritty, heavy grunge album that dives into themes of addiction and despair with haunting melodies.",
+      "price": 26.99
+    },
+    {
+      "id": "6",
+      "name": "Mezzanine",
+      "artist": "Massive Attack",
+      "description": "A trip-hop masterpiece with moody atmospheres, layered textures, and unforgettable grooves.",
+      "price": 24.99
+    },
+    {
+      "id": "7",
+      "name": "Loveless",
+      "artist": "My Bloody Valentine",
+      "description": "An iconic shoegaze album defined by swirling guitars, hazy textures, and dreamlike vocals.",
+      "price": 27.5
+    },
+    {
+      "id": "8",
+      "name": "In Utero",
+      "artist": "Nirvana",
+      "description": "Raw and abrasive, Nirvana’s final studio album delivers an unflinching and emotional statement.",
+      "price": 26.5
+    },
+    {
+      "id": "916c",
+      "name": "test album",
+      "artist": "test artist",
+      "description": "placeholder description",
+      "price": 10
+    }
+  ]
+}

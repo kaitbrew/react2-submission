@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  gap: 1.5rem;
+  margin: 1rem 0;
+}
+
+.sidebar {
+  width: 240px;
+}
+
+.main {
+  flex: 1;
+}
+
+.message {
+  padding: 2rem;
+  text-align: center;
+  color: var(--color-text);
+}

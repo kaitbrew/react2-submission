@@ -1,0 +1,41 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --color-bg: #f8f7f9;
+  --color-text: #333333;
+  --color-primary: #4a3c5c;
+  --color-secondary: #8a7ca8;
+  --color-accent: #f0eef2;
+  --color-error: #c00;
+  --color-success: #0a0;
+  --max-width: 1200px;
+}
+
+/* 3) Base styles */
+html,
+body {
+  height: 100%;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+/* 4) App container wrapper */
+.app-container {
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1rem;
+}
